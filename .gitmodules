@@ -1,0 +1,3 @@
+[submodule "kubo-release"]
+	path = kubo-release
+	url = https://github.com/cloudfoundry-incubator/kubo-release.git
